@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Roshan
 
-I'm a passionate **Software Developer** specializing in **Full Stack Development**. I love working with **JavaScript, Java, RDBMS, and Cloud technologies**. 🚀
+I'm a passionate **Software Engineer** with 3.5+ years of experience, specializing in **Full Stack Development with Backend Focus**. I love working with **JavaScript, Java, RDBMS, and Cloud technologies**. 🚀
 
 - 🔭 I’m currently working on **XYZ**
 - 🌱 I’m learning **System Design**
