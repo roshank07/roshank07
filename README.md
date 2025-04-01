@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there! I'm Roshan
 
-<!--
-**roshank07/roshank07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** specializing in **Full Stack Development**. I love working with **JavaScript, Java, RDBMS, and Cloud technologies**. 🚀
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **XYZ**
+- 🌱 I’m learning **System Design**
+- 💬 Ask me about **Web Development, APIs, Databases, Microservices, Kubernetes, and GitHub Actions**
+- 📫 Reach me at **roshann.purbey@example.com**
+- ⚡ Solved **500+ DSA Problems** across LeetCode and GFG.  
+  - 🏆 [LeetCode Profile](https://leetcode.com/u/purbey/)  
+  - 📚 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/roshannpurbey/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshank07&show_icons=true&theme=radical)
