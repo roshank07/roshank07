@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Roshan
+# I'm Roshan
 
 I'm a passionate **Sr Software Engineer** with 3.5+ years of experience, specializing in **Full Stack Development with Backend Focus**. I love working with **Java,JavaScript, RDBMS, and Cloud technologies**. 🚀
 
@@ -10,5 +10,3 @@ I'm a passionate **Sr Software Engineer** with 3.5+ years of experience, special
   - 🏆 [LeetCode Profile](https://leetcode.com/u/purbey/)  
   - 📚 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/roshannpurbey/)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshank07&show_icons=true&theme=radical)
